@@ -1,13 +1,13 @@
-site_name: GUI_environments
+site_name: fconn_regression
 theme: material
 plugins:
   - search
 pages:
-- Overview: GUI_environments.md
-- Preparation, overview: prep.md
-- Preparation, list of participants: prep_list.md
-- Preparation, variance files: prep_variance.md
-- Usage: usage.md
-- Exploring the outputs: exploring_outputs.md
+- Overview: fconn_regression.md
+- Predicting outcome using parcellated data: fconn_regression_1_sample.md
+- Predicting outcome using two samples: fconn_regression_2_samples.md
+- Real cross-validation using two samples: fconn_regression_xval.md
+- Detailed specifications for input files and data: detailed_description.md
+- Coming next: coming_next.md
 - Known issues: issues.md
 - Installation and set-up: install_and_setup.md
