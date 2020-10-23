@@ -1,0 +1,13 @@
+site_name: GUI_environments
+theme: material
+plugins:
+  - search
+pages:
+- Overview: GUI_environments.md
+- Preparation, overview: prep.md
+- Preparation, list of participants: prep_list.md
+- Preparation, variance files: prep_variance.md
+- Usage: usage.md
+- Exploring the outputs: exploring_outputs.md
+- Known issues: issues.md
+- Installation and set-up: install_and_setup.md
