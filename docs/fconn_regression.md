@@ -4,3 +4,5 @@
 \\( a^2 = b^2 \\)
 
 ./usage/path_wb_command.PNG
+
+\\[ a^2 = b^2 + c^2 \\]
